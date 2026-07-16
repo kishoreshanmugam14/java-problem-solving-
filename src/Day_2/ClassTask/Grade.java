@@ -1,4 +1,4 @@
-package Day_2;
+package Day_2.ClassTask;
 import java.util.Scanner;
 public class Grade {
     public static void main(String[] args)
