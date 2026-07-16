@@ -1,4 +1,4 @@
-package Day_1;
+package Day_1.ClassTask;
 
 public class college {
 
